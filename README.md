@@ -1,5 +1,4 @@
 # First-Repository
 This is my first Repository
 <br>
-Author-Mayank Raj (IIT KANPUR)
-
+Author-Mayank Raj(IIT KANPUR)
